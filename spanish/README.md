@@ -38,7 +38,6 @@ Descargar imágenes con un solo comando o clic, ahorrando tiempo.
 Ofrecer opciones como tamaño, resolución, tipo de imagen (ilustraciones, fotos, iconos, etc.).
 4. Almacenar y Organizar Imágenes
 
-5. Que la busqueda se puedan realizar por voz
 
 ## Links
 - [Un link](#)
