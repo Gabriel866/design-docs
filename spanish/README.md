@@ -1,7 +1,7 @@
 # TITULO DEL DESIGN DOC
 Link: [Link a este design doc](#)
 
-Author(s): Charlie L
+Author(s): Gabriel Lugo 
 
 Status: [Draft, Ready for review, In Review, Reviewed]
 
