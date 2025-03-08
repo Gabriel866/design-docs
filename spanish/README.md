@@ -9,7 +9,7 @@ Ultima actualización: 2025-03-08
 
 ## Contenido
 1 Búsqueda de Imágenes
-* El usuario ingresa una palabra clave como por ejemplo ejemplo: "perros", "paisajes", "coches").
+* El usuario ingresa una palabra clave.
 * El bot busca imágenes en una API como Unsplash, Google Images o Bing.
 2.  Descarga Automática
 * Guarda la imagen en una carpeta local o permite que el usuario la descargue con un enlace.
@@ -28,16 +28,13 @@ Ultima actualización: 2025-03-08
 ## Objetivo
 El objetivo o objtivos que queremos hacer es:
 1. Automatizar la Búsqueda de Imágenes
-
-Permitir que los usuarios busquen imágenes sin necesidad de abrir un navegador.
+* Permitir que los usuarios busquen imágenes sin necesidad de abrir un navegador.
 2. Facilitar la Descarga Rápida
-
-Descargar imágenes con un solo comando o clic, ahorrando tiempo.
+*Descargar imágenes con un solo comando o clic, ahorrando tiempo.
 3. Personalizar la Descarga
-
-Ofrecer opciones como tamaño, resolución, tipo de imagen (ilustraciones, fotos, iconos, etc.).
+*Ofrecer opciones como tamaño, resolución, tipo de imagen (ilustraciones, fotos, iconos, etc.).
 4. Almacenar y Organizar Imágenes
-
+* Guardar las imagenes en una carpeta para posteriormente poderlas acceder a ellas 
 
 ## Links
 - [Un link](#)
