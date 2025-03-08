@@ -1,39 +1,48 @@
-# TITULO DEL DESIGN DOC
-Link: [Link a este design doc](#)
+# Bot de Descarga de Imágenes
+Link: [(https://github.com/charliesbot/design-docs/edit/main/spanish/README.md)](#)
 
-Author(s): Charlie L
+Author: Gabriel Lugo 
 
-Status: [Draft, Ready for review, In Review, Reviewed]
+Status:Version: Beta
 
-Ultima actualización: YYYY-MM-DD
+Ultima actualización: 2025-03-08
 
 ## Contenido
-- Goals
-- Non-Goals
-- Background
-- Overview
-- Detailed Design
-  - Solucion 1
-    - Frontend
-    - Backend
-  - Solucion 2
-    - Frontend
-    - Backend
-- Consideraciones
-- Métricas
+1 Búsqueda de Imágenes
+* El usuario ingresa una palabra clave como por ejemplo ejemplo: "perros", "paisajes", "coches").
+* El bot busca imágenes en una API como Unsplash, Google Images o Bing.
+2.  Descarga Automática
+* Guarda la imagen en una carpeta local o permite que el usuario la descargue con un enlace.
+* Opción de elegir cuántas imágenes descargar.
+3. Filtros de Búsqueda
+* Tamaño de imagen (pequeño, mediano, grande).
+* Orientación (horizontal o vertical).
+* Tipo (fotos, ilustraciones, iconos).
+4. Generación de Nombre Personalizado
+* Renombrar la imagen con el nombre de la búsqueda o la fecha de descarga.
+5. Enviar Imagen por Mensaje
+*Se enviarian las imagens en el bot de Telegram .
+6. Conversión de Formato (Opcional)
+*Convertir imágenes a diferentes formatos como JPG, PNG o WEBP.
+
+## Objetivo
+El objetivo o objtivos que queremos hacer es:
+1. Automatizar la Búsqueda de Imágenes
+
+Permitir que los usuarios busquen imágenes sin necesidad de abrir un navegador.
+2. Facilitar la Descarga Rápida
+
+Descargar imágenes con un solo comando o clic, ahorrando tiempo.
+3. Personalizar la Descarga
+
+Ofrecer opciones como tamaño, resolución, tipo de imagen (ilustraciones, fotos, iconos, etc.).
+4. Almacenar y Organizar Imágenes
+
+5. Que la busqueda se puedan realizar por voz
 
 ## Links
 - [Un link](#)
 - [Otro link](#)
-
-## Objetivo
-_Que y porque estamos haciendo esto?_
-
-_Incluye contexto para las personas que no están familiarizadas con el proyecto._
-
-_Mantenlo corto, elabora en **Background, Overview y Detailed Design**_
-
-_Añade screenshots / mocks si lo ves necesario_
 
 ## Goals
 - Goals
@@ -72,15 +81,12 @@ _No elabores minuciosamente la implementación._
 _Frontend…_
 ### Backend
 _Backend…_
-
 ## Solution 2
 ### Frontend
 _Frontend…_
 ### Backend
 _Backend…_
-
 ## Consideraciones
 _Preocupaciones / trade-offs / tech debt_
-
 ## Métricas
 _Que información necesitas para validar antes de lanzar este feature?_
