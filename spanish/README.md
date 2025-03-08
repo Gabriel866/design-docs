@@ -1,5 +1,5 @@
 # Bot de Descarga de Imágenes
-Link: [(https://github.com/charliesbot/design-docs/edit/main/spanish/README.md)](#)
+Link: [(https://github.com/Gabriel866/design-docs/tree/patch-2/spanish)](#)
 
 Author: Gabriel Lugo 
 
