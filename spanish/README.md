@@ -1,39 +1,25 @@
-# TITULO DEL DESIGN DOC
-Link: [Link a este design doc](#)
+# Buscador de imagenes.
+Link: [https://github.com/Gabriel866/design-docs/edit/main/spanish/README.md](#)
 
-Author(s): Charlie L
+Author: Gabriel Lugo 
 
 Status: [Draft, Ready for review, In Review, Reviewed]
 
-Ultima actualización: YYYY-MM-DD
+Ultima actualización: 2025-03-08
 
 ## Contenido
-- Goals
-- Non-Goals
-- Background
-- Overview
-- Detailed Design
-  - Solucion 1
-    - Frontend
-    - Backend
-  - Solucion 2
-    - Frontend
-    - Backend
-- Consideraciones
-- Métricas
+
 
 ## Links
-- [Un link](#)
-- [Otro link](#)
+-
 
 ## Objetivo
-_Que y porque estamos haciendo esto?_
-
-_Incluye contexto para las personas que no están familiarizadas con el proyecto._
-
-_Mantenlo corto, elabora en **Background, Overview y Detailed Design**_
-
-_Añade screenshots / mocks si lo ves necesario_
+_El objetivo de un bot buscador de imágenes es facilitar la búsqueda y recuperación de imágenes en internet o en una base de datos específica. 
+1.- Automatizar búsquedas: Encuentra imágenes relacionadas con palabras clave sin que el usuario tenga que realizar la búsqueda manualmente.
+2.- Filtrar imágenes: Puede aplicar filtros por tamaño, resolución, formato, colores, entre otros.
+3.- Reconocimiento de imágenes: Algunos bots pueden analizar una imagen dada y buscar imágenes similares mediante reconocimiento de patrones.
+4.- Optimizar la búsqueda en bases de datos: Empresas pueden usarlo para organizar y acceder rápidamente a grandes volúmenes de imágenes.
+5.- Monitoreo y detección de contenido: Puede identificar imágenes inapropiadas, detectar marcas de agua o rastrear el uso no autorizado de imágenes.
 
 ## Goals
 - Goals
