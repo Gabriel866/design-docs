@@ -3,7 +3,7 @@ Link: [https://github.com/Gabriel866/design-docs/edit/main/spanish/README.md](#)
 
 Author: Gabriel Lugo 
 
-Status: [Draft, Ready for review, In Review, Reviewed]
+Status: [En diseño]
 
 Ultima actualización: 2025-03-08
 
